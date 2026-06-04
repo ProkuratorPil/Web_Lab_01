@@ -1,0 +1,2 @@
+CREATE DATABASE wp_labs;
+GRANT ALL PRIVILEGES ON DATABASE wp_labs TO student;
